@@ -18,7 +18,7 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA/main/instala.sh && chmod +x instala.sh* && ./instala.sh*
+wget https://raw.githubusercontent.com/SageSBR/ADM-MANAGER-ALPHA/main/instala.sh && chmod +x instala.sh* && ./instala.sh*
 ```
 DATA: Las dependencias faltantes se instalarán automáticamente
 
@@ -43,8 +43,8 @@ DATA: Las dependencias faltantes se instalarán automáticamente
 * Idioma por defecto es el portugués
 
 ## :book: Optional Utilities
-1. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA/master/Install/Source-Code-ADM-Manager.zip)
-2. Generador ADM-Manager Ultimate [Donwload](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA/tree/master/Install/Generador)
+1. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/SageSBR/ADM-MANAGER-ALPHA/master/Install/Source-Code-ADM-Manager.zip)
+2. Generador ADM-Manager Ultimate [Donwload](https://github.com/SageSBR/ADM-MANAGER-ALPHA/tree/master/Install/Generador)
 
 ## :octocat: Credits
 1. [@E8th4ver](https://t.me/E8th4ver) - Developer of ADM-Manager
